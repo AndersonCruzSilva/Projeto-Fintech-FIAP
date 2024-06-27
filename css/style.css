@@ -1,0 +1,18 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #000;
+}
+
+button {
+    all: unset;
+}
+
+.link-cadastro{
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 0.6rem;
+}
