@@ -11,8 +11,20 @@ button {
     all: unset;
 }
 
-.link-cadastro{
+.link-cadastro {
     color: #000;
     text-decoration: none;
     margin-bottom: 0.6rem;
+}
+
+.box-login {
+    background-color: #FFF;
+}
+
+.background {
+    background-color: #efefef;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
 }
